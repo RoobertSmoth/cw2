@@ -1,0 +1,36 @@
+
+# Build directories
+_build_/
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# Compiled files
+*.o
+*.obj
+*.d
+*.a
+*.lib
+*.exe
+*.dll
+*.so
+*.pdb
+
+# Generated Makefiles
+Makefile
+*.make
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.zip
+
+# IDE and OS files
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
